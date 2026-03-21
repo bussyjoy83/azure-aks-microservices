@@ -23,9 +23,9 @@ Docker for container build and packaging
 ### Build Docker Images
 
 
-docker build -t osatuyi090.azurecr.io/frontend:v1
+docker build -t bussyjoy01.azurecr.io/frontend:v1
 
-docker build -t osatuyi090.azurecr.io/backend:v2
+docker build -t bussyjoy01.azurecr.io/backend:v2
 
 Built images
 ![docker image](docs/docker%20image.png)
@@ -34,9 +34,9 @@ Built images
 ## Push Images to Azure Container Registry
 
 
-docker build -t osatuyi090.azurecr.io/frontend:v1
+docker build -t bussyjoy01.azurecr.io/frontend:v1
 
-docker build -t osatuyi090.azurecr.io/backend:v2
+docker build -t bussyjoy01.azurecr.io/backend:v2
 
 Images in ACR
 ![image in acr1](docs/images%20in%20acr1.png)
@@ -146,12 +146,13 @@ azure-aks-microservices
 
 
 Author
-
-oloye busayo
+Oloye Busayo
 
 Azure Cloud Engineer
 
 Certifications
 
-• AZ-104 – Microsoft Azure Administrator in view
-• AZ-900 - Microsoft Azure Fundamentals
+•  Ms-900 - Microsoft 365 fundamantals
+•  AZ-900 - Microsoft Azure Fundamentals
+•  AZ-104 - Microsoft Azure Administrator in view
+
